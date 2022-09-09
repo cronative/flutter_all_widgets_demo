@@ -48,7 +48,7 @@
 ## Clone Project
 
 ```
-git clone http://165.22.219.213/raviashara/flutter_demo.git
+
 ```
 
 ## Run Application
@@ -60,7 +60,7 @@ flutter run
 ## How to use
 
 ```
-git clone http://165.22.219.213/raviashara/flutter_demo.git
+
 cd flutter_demo
 flutter run
 ```
@@ -70,7 +70,7 @@ flutter run
 ```
 Please feel free to adding new demos to this project:
 
-- Fork the project (http://165.22.219.213/raviashara/flutter_demo.git)
+
 
 - Create your feature branch
 
